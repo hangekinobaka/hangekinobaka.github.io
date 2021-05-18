@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Sleepy-Component</title>
-    <url>/2020/04/03/sleepy-component/</url>
-    <content><![CDATA[<p>I have been working with the <code>vue.js</code> framework for a long term as a front end developer. I have collected some of the most useful components I’ve written here.</p>
-<p>Following is my component library written in <code>vue.js</code>    </p>
-<p><img src="https://hangekinobaka.github.io/sleepy-components/src/assets/my-comp.gif" alt="">    </p>
-<p>Click <a href="https://hangekinobaka.github.io/sleepy-components/" target="_blank" rel="noopener">Here</a> to see the detail.  </p>
-<p style="display:flex; align-items: center; margin-right:10px; ">
-  Or check the Github repo here &nbsp
-  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/sleepy-components" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
-</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Stupitoma</title>
     <url>/2020/04/03/Stupitoma/</url>
     <content><![CDATA[<p>A stupid <span style="color: #960e02">tomato</span> is trying to across the road without dying.<br><img src="/images/toma-preview.png" alt="">  </p>
@@ -31,7 +18,8 @@
     <url>/2021/05/10/sleepy-davinci-code/</url>
     <content><![CDATA[<p>A <span style="background: #555; font-weight: 700" ><span style="color: #fff">Da</span><span style="color: #000">Vinci</span></span> code board game.       </p>
 <p>Rule:<br>Reveal all of your opponent’s secret code before they crack yours!</p>
-<p><img src="/images/dvc-preview.png" alt="">  </p>
+<p><img src="/images/dvc-preview.png" alt="">    </p>
+<p><a href="https://youtu.be/EGcA6uzIboI" target="_blank" rel="noopener"><img src="https://img.youtube.com/vi/EGcA6uzIboI/maxresdefault.jpg" alt="Watch the video"></a><br>(Click ↑ to watch a demo video)</p>
 <p style="display:flex; align-items: center; margin-right:10px;">
   Click &nbsp
   <a href="https://dvc.sleepystudio.ga/" target="_blank" rel="noopener" style="display: flex; align-items: center;"> Here <img src="/images/dvc.ico"></img> </a> 
@@ -55,6 +43,19 @@
 <p>One of my friend has draw the most of the sprites for me. (<strong>A great thanks here</strong>)   </p>
 <p>For the demo server, I have bought a VPS from <code>Linode</code> and built a <code>docker + nginx</code> deploy flow. I was planed to use <code>AWS</code> or <code>Google Cloud</code>, however I found it is a little bit waste to deploy such a small project using them. Also I can learn more by using a brand new server out of box.    </p>
 <p>I am still working on improving the game. I hope you will enjoy it.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Sleepy-Component</title>
+    <url>/2020/04/03/sleepy-component/</url>
+    <content><![CDATA[<p>I have been working with the <code>vue.js</code> framework for a long term as a front end developer. I have collected some of the most useful components I’ve written here.</p>
+<p>Following is my component library written in <code>vue.js</code>    </p>
+<p><img src="https://hangekinobaka.github.io/sleepy-components/src/assets/my-comp.gif" alt="">    </p>
+<p>Click <a href="https://hangekinobaka.github.io/sleepy-components/" target="_blank" rel="noopener">Here</a> to see the detail.  </p>
+<p style="display:flex; align-items: center; margin-right:10px; ">
+  Or check the Github repo here &nbsp
+  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/sleepy-components" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
+</p>
 ]]></content>
   </entry>
 </search>
