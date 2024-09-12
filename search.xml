@@ -1,48 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>ShoomShoom</title>
-    <url>/2023/02/04/ShoomShoom/</url>
-    <content><![CDATA[<p><img src="/images/shoom-logo-s.png" alt="">     </p>
-<h1 id="Shoom-Shoom"><a href="#Shoom-Shoom" class="headerlink" title="Shoom Shoom"></a>Shoom Shoom</h1><p>An independent game demo created by me and my friend <a href="https://www.linkedin.com/in/%E3%82%B7%E3%83%B3-%E3%82%AA%E3%82%A6-9b0103252/" target="_blank" rel="noopener">オウシン(Chen Wang)</a>     </p>
-<p>The game itself is still under development, we will strive to make a complete gaming experience.     </p>
-<p>We have created a complete world view and story framework for the game, and carefully designed characters, story, and gameplay. We hope you will enjoy it.    </p>
-<p><img src="/images/preview-shoom.jpg" alt="">  </p>
-<p style="display:flex; align-items: center; margin-right:10px;">
-  Click &nbsp
-  <a href="https://hangekinobaka.github.io/ShoomShoom/" target="_blank" rel="noopener" style="display: flex; align-items: center;"> Here <img src="/images/shoom-icon.ico"></img> </a> 
-  &nbsp to play! 
-</p>
-
-<p style="display:flex; align-items: center; margin-right:10px; ">
-  Or check the Github repo here &nbsp
-  <a style="display: flex; align-items: center;" href="MalteseDog"><img src="/images/github.ico"></img></a> 
-</p>
-
-<p>The game is about a small mouse named Shoom Shoom, who lives in the underground city in a steampunk world.<br>He uses his homemade steam machinery and weapons to smuggle goods for customers in order to survive.    </p>
-<a id="more"></a>
-
-<h2 id="How-to-Play"><a href="#How-to-Play" class="headerlink" title="How to Play"></a>How to Play</h2><hr>
-<p>You can use <code>wd</code> or <code>←→</code> to move left and right.<br>Use <code>shift</code> to run.<br>Use <code>space</code> to jump.  </p>
-<p><img src="/images/shoom-gameplay.gif" alt="">  </p>
-<h2 id="Project-Structure"><a href="#Project-Structure" class="headerlink" title="Project Structure"></a>Project Structure</h2><hr>
-<p>I use Unity3D as the game engine.<br>Also includes these functionalities:  </p>
-<ul>
-<li><p>URP<br>To make the scene more beautiful.<br>Add ShaderGraph to create special render effect(like the water and the shadow of water reflected on the wall behind)</p>
-</li>
-<li><p>UniRx<br>Reactive state control.<br>Script sequence control.</p>
-</li>
-<li><p>DoTween<br>tween animation.<br>For example the camera movement.</p>
-</li>
-<li><p>Cinemation<br>Camera control.</p>
-</li>
-<li><p>Spine Unity Runtime<br>For implement the spine animations I have created.  </p>
-</li>
-</ul>
-<p>I also created the spine animations for shoom shoom and his enemies. (Will create more in the future…)  </p>
-]]></content>
-  </entry>
-  <entry>
     <title>Stupitoma</title>
     <url>/2020/04/03/Stupitoma/</url>
     <content><![CDATA[<p>A stupid <span style="color: #960e02">tomato</span> is trying to across the road without dying.<br><img src="/images/toma-preview.png" alt="">  </p>
@@ -88,6 +46,48 @@
 <p>One of my friend has draw the most of the sprites for me. (<strong>A great thanks here</strong>)   </p>
 <p>For the demo server, I have bought a VPS from <code>Linode</code> and built a <code>docker + nginx</code> deploy flow. I was planed to use <code>AWS</code> or <code>Google Cloud</code>, however I found it is a little bit waste to deploy such a small project using them. Also I can learn more by using a brand new server out of box.    </p>
 <p>I am still working on improving the game. I hope you will enjoy it.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>ShoomShoom</title>
+    <url>/2023/02/04/ShoomShoom/</url>
+    <content><![CDATA[<p><img src="/images/shoom-logo-s.png" alt="">     </p>
+<h1 id="Shoom-Shoom"><a href="#Shoom-Shoom" class="headerlink" title="Shoom Shoom"></a>Shoom Shoom</h1><p>An independent game demo created by me and my friend <a href="https://www.linkedin.com/in/%E3%82%B7%E3%83%B3-%E3%82%AA%E3%82%A6-9b0103252/" target="_blank" rel="noopener">オウシン(Chen Wang)</a>     </p>
+<p>The game itself is still under development, we will strive to make a complete gaming experience.     </p>
+<p>We have created a complete world view and story framework for the game, and carefully designed characters, story, and gameplay. We hope you will enjoy it.    </p>
+<p><img src="/images/preview-shoom.jpg" alt="">  </p>
+<p style="display:flex; align-items: center; margin-right:10px;">
+  Click &nbsp
+  <a href="https://hangekinobaka.github.io/ShoomShoom/" target="_blank" rel="noopener" style="display: flex; align-items: center;"> Here <img src="/images/shoom-icon.ico"></img> </a> 
+  &nbsp to play! 
+</p>
+
+<p style="display:flex; align-items: center; margin-right:10px; ">
+  Or check the Github repo here &nbsp
+  <a style="display: flex; align-items: center;" href="MalteseDog"><img src="/images/github.ico"></img></a> 
+</p>
+
+<p>The game is about a small mouse named Shoom Shoom, who lives in the underground city in a steampunk world.<br>He uses his homemade steam machinery and weapons to smuggle goods for customers in order to survive.    </p>
+<a id="more"></a>
+
+<h2 id="How-to-Play"><a href="#How-to-Play" class="headerlink" title="How to Play"></a>How to Play</h2><hr>
+<p>You can use <code>wd</code> or <code>←→</code> to move left and right.<br>Use <code>shift</code> to run.<br>Use <code>space</code> to jump.  </p>
+<p><img src="/images/shoom-gameplay.gif" alt="">  </p>
+<h2 id="Project-Structure"><a href="#Project-Structure" class="headerlink" title="Project Structure"></a>Project Structure</h2><hr>
+<p>I use Unity3D as the game engine.<br>Also includes these functionalities:  </p>
+<ul>
+<li><p>URP<br>To make the scene more beautiful.<br>Add ShaderGraph to create special render effect(like the water and the shadow of water reflected on the wall behind)</p>
+</li>
+<li><p>UniRx<br>Reactive state control.<br>Script sequence control.</p>
+</li>
+<li><p>DoTween<br>tween animation.<br>For example the camera movement.</p>
+</li>
+<li><p>Cinemation<br>Camera control.</p>
+</li>
+<li><p>Spine Unity Runtime<br>For implement the spine animations I have created.  </p>
+</li>
+</ul>
+<p>I also created the spine animations for shoom shoom and his enemies. (Will create more in the future…)  </p>
 ]]></content>
   </entry>
   <entry>
