@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Stupitoma</title>
-    <url>/2020/04/03/Stupitoma/</url>
-    <content><![CDATA[<p>A stupid <span style="color: #960e02">tomato</span> is trying to across the road without dying.<br><img src="/images/toma-preview.png" alt="">  </p>
-<p>Click <a href="https://hangekinobaka.github.io/Stupitoma" target="_blank" rel="noopener">Here</a> to play!  </p>
-<p style="display:flex; align-items: center; margin-right:10px; ">
-  Or check the Github repo here &nbsp
-  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/Stupitoma" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
-</p>
-
-<p>This is a game demo using CocosCreator. I have draw the sprites and programmed the whole stuff. Click to start. Once you clicked, your toma will go forward to across the road. If you click the left side of the screen, your toma will turn left and stop (as it is stupid, not able to walk and see in the same time), meanwhile you shall not see the right side. Vice versa. </p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Sleepy DaVinci Code</title>
-    <url>/2021/05/10/sleepy-davinci-code/</url>
-    <content><![CDATA[<p>A <span style="background: #555; font-weight: 700" ><span style="color: #fff">Da</span><span style="color: #000">Vinci</span></span> code board game.       </p>
-<p>Rule:<br>Reveal all of your opponent’s secret code before they crack yours!</p>
-<p><img src="/images/dvc-preview.png" alt="">    </p>
-<p><a href="https://youtu.be/EGcA6uzIboI" target="_blank" rel="noopener"><img src="https://img.youtube.com/vi/EGcA6uzIboI/maxresdefault.jpg" alt="Watch the video"></a><br>(Click ↑ to watch a demo video)</p>
-<a id="more"></a>
-
-<p style="display:flex; align-items: center; margin-right:10px;">
-  Click &nbsp
-  <a href="https://dvc.sleepystudio.ga/" target="_blank" rel="noopener" style="display: flex; align-items: center;"> Here <img src="/images/dvc.ico"></img> </a> 
-  &nbsp to play! 
-</p>
-
-<p style="display:flex; align-items: center; margin-right:10px; ">
-  Or check the Github repo here &nbsp
-  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/sleepy-davinci-code" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
-</p>
-
-<h2 id="Project-Structure"><a href="#Project-Structure" class="headerlink" title="Project Structure"></a>Project Structure</h2><hr>
-<p>This is a game demo using </p>
-<ul>
-<li>Frontend: <code>Pixi.js</code>, <code>React (Next.js)</code> and <code>GSAP</code></li>
-<li>Backend: <code>Node</code>, <code>Express</code> and <code>Socket.io</code></li>
-<li>DB: <code>Redis</code> as data cache</li>
-<li>Construct and deploy: <code>Docker</code>, <code>Nginx</code></li>
-</ul>
-<p>For this game, I have designed the whole system, the art base and picked up the technologies I needed.</p>
-<p>I have finished the programming part all by myself.</p>
-<p>One of my friend has draw the most of the sprites for me. (<strong>A great thanks here</strong>)   </p>
-<p>For the demo server, I have bought a VPS from <code>Linode</code> and built a <code>docker + nginx</code> deploy flow. I was planed to use <code>AWS</code> or <code>Google Cloud</code>, however I found it is a little bit waste to deploy such a small project using them. Also I can learn more by using a brand new server out of box.    </p>
-<p>I am still working on improving the game. I hope you will enjoy it.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>ShoomShoom</title>
     <url>/2023/02/04/ShoomShoom/</url>
     <content><![CDATA[<p><img src="/images/shoom-logo-s.png" alt="">     </p>
@@ -103,8 +55,56 @@
 <p><img src="../images/sleepy-scene-tool-menu.jpg" alt="">    </p>
 <h2 style="display:flex; align-items: center; margin-right:10px; ">
   Github repo here &nbsp
-  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/ShoomShoom" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
+  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/sleepy-scene-tool" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
 </h2>
+]]></content>
+  </entry>
+  <entry>
+    <title>Sleepy DaVinci Code</title>
+    <url>/2021/05/10/sleepy-davinci-code/</url>
+    <content><![CDATA[<p>A <span style="background: #555; font-weight: 700" ><span style="color: #fff">Da</span><span style="color: #000">Vinci</span></span> code board game.       </p>
+<p>Rule:<br>Reveal all of your opponent’s secret code before they crack yours!</p>
+<p><img src="/images/dvc-preview.png" alt="">    </p>
+<p><a href="https://youtu.be/EGcA6uzIboI" target="_blank" rel="noopener"><img src="https://img.youtube.com/vi/EGcA6uzIboI/maxresdefault.jpg" alt="Watch the video"></a><br>(Click ↑ to watch a demo video)</p>
+<a id="more"></a>
+
+<p style="display:flex; align-items: center; margin-right:10px;">
+  Click &nbsp
+  <a href="https://dvc.sleepystudio.ga/" target="_blank" rel="noopener" style="display: flex; align-items: center;"> Here <img src="/images/dvc.ico"></img> </a> 
+  &nbsp to play! 
+</p>
+
+<p style="display:flex; align-items: center; margin-right:10px; ">
+  Or check the Github repo here &nbsp
+  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/sleepy-davinci-code" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
+</p>
+
+<h2 id="Project-Structure"><a href="#Project-Structure" class="headerlink" title="Project Structure"></a>Project Structure</h2><hr>
+<p>This is a game demo using </p>
+<ul>
+<li>Frontend: <code>Pixi.js</code>, <code>React (Next.js)</code> and <code>GSAP</code></li>
+<li>Backend: <code>Node</code>, <code>Express</code> and <code>Socket.io</code></li>
+<li>DB: <code>Redis</code> as data cache</li>
+<li>Construct and deploy: <code>Docker</code>, <code>Nginx</code></li>
+</ul>
+<p>For this game, I have designed the whole system, the art base and picked up the technologies I needed.</p>
+<p>I have finished the programming part all by myself.</p>
+<p>One of my friend has draw the most of the sprites for me. (<strong>A great thanks here</strong>)   </p>
+<p>For the demo server, I have bought a VPS from <code>Linode</code> and built a <code>docker + nginx</code> deploy flow. I was planed to use <code>AWS</code> or <code>Google Cloud</code>, however I found it is a little bit waste to deploy such a small project using them. Also I can learn more by using a brand new server out of box.    </p>
+<p>I am still working on improving the game. I hope you will enjoy it.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Stupitoma</title>
+    <url>/2020/04/03/Stupitoma/</url>
+    <content><![CDATA[<p>A stupid <span style="color: #960e02">tomato</span> is trying to across the road without dying.<br><img src="/images/toma-preview.png" alt="">  </p>
+<p>Click <a href="https://hangekinobaka.github.io/Stupitoma" target="_blank" rel="noopener">Here</a> to play!  </p>
+<p style="display:flex; align-items: center; margin-right:10px; ">
+  Or check the Github repo here &nbsp
+  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/Stupitoma" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
+</p>
+
+<p>This is a game demo using CocosCreator. I have draw the sprites and programmed the whole stuff. Click to start. Once you clicked, your toma will go forward to across the road. If you click the left side of the screen, your toma will turn left and stop (as it is stupid, not able to walk and see in the same time), meanwhile you shall not see the right side. Vice versa. </p>
 ]]></content>
   </entry>
 </search>
