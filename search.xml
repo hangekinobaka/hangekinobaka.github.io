@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>ShoomShoom</title>
+    <title>『Indie』ShoomShoom</title>
     <url>/2023/02/04/ShoomShoom/</url>
     <content><![CDATA[<p><img src="/images/shoom-logo-s.png" alt="">     </p>
 <h1 id="Shoom-Shoom"><a href="#Shoom-Shoom" class="headerlink" title="Shoom Shoom"></a>Shoom Shoom</h1><p>An independent game demo created by me and my friend <a href="https://www.linkedin.com/in/%E3%82%B7%E3%83%B3-%E3%82%AA%E3%82%A6-9b0103252/" target="_blank" rel="noopener">オウシン(Chen Wang)</a>     </p>
@@ -43,24 +43,7 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Sleepy Scene Tool (for Unity)</title>
-    <url>/2024/09/12/sleepy-scene-tool/</url>
-    <content><![CDATA[<h1 id="Sleepy-Scene-Tool-for-Unity"><a href="#Sleepy-Scene-Tool-for-Unity" class="headerlink" title="Sleepy Scene Tool (for Unity)"></a>Sleepy Scene Tool (for Unity)</h1><p>Don’t you feel that it is frustrating when you have an enter scene so that every time you need to start the game, you gonna have to go to that enter scene then hit the start button.   </p>
-<p>Isn’t it annoying that your scene file hidden in the project hierarchy and you have to use the search bar to find the scene you wanna use.   </p>
-<p>In the begining I thought that I can find a good plugin for this, but no, either are they too hard to use or they are expensive.   </p>
-<p>So I thought, why not create my own one. So, boom, voila, the <code>Sleepy Scene Tool</code> is here:  </p>
-<p><img src="../images/sleepy-scene-tool-intro.png" alt="">   </p>
-<a id="more"></a>    
-
-<p><img src="../images/sleepy-scene-tool-menu.jpg" alt="">    </p>
-<h2 style="display:flex; align-items: center; margin-right:10px; ">
-  Github repo here &nbsp
-  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/sleepy-scene-tool" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
-</h2>
-]]></content>
-  </entry>
-  <entry>
-    <title>Sleepy DaVinci Code</title>
+    <title>『Indie』Sleepy DaVinci Code</title>
     <url>/2021/05/10/sleepy-davinci-code/</url>
     <content><![CDATA[<p>A <span style="background: #555; font-weight: 700" ><span style="color: #fff">Da</span><span style="color: #000">Vinci</span></span> code board game.       </p>
 <p>Rule:<br>Reveal all of your opponent’s secret code before they crack yours!</p>
@@ -95,7 +78,24 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Stupitoma</title>
+    <title>『Indie』Sleepy Scene Tool (for Unity)</title>
+    <url>/2024/09/12/sleepy-scene-tool/</url>
+    <content><![CDATA[<h1 id="Sleepy-Scene-Tool-for-Unity"><a href="#Sleepy-Scene-Tool-for-Unity" class="headerlink" title="Sleepy Scene Tool (for Unity)"></a>Sleepy Scene Tool (for Unity)</h1><p>Don’t you feel that it is frustrating when you have an enter scene so that every time you need to start the game, you gonna have to go to that enter scene then hit the start button.   </p>
+<p>Isn’t it annoying that your scene file hidden in the project hierarchy and you have to use the search bar to find the scene you wanna use.   </p>
+<p>In the begining I thought that I can find a good plugin for this, but no, either are they too hard to use or they are expensive.   </p>
+<p>So I thought, why not create my own one. So, boom, voila, the <code>Sleepy Scene Tool</code> is here:  </p>
+<p><img src="../images/sleepy-scene-tool-intro.png" alt="">   </p>
+<a id="more"></a>    
+
+<p><img src="../images/sleepy-scene-tool-menu.jpg" alt="">    </p>
+<h2 style="display:flex; align-items: center; margin-right:10px; ">
+  Github repo here &nbsp
+  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/sleepy-scene-tool" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
+</h2>
+]]></content>
+  </entry>
+  <entry>
+    <title>『Indie』Stupitoma</title>
     <url>/2020/04/03/Stupitoma/</url>
     <content><![CDATA[<p>A stupid <span style="color: #960e02">tomato</span> is trying to across the road without dying.<br><img src="/images/toma-preview.png" alt="">  </p>
 <p>Click <a href="https://hangekinobaka.github.io/Stupitoma" target="_blank" rel="noopener">Here</a> to play!  </p>
@@ -105,6 +105,27 @@
 </p>
 
 <p>This is a game demo using CocosCreator. I have draw the sprites and programmed the whole stuff. Click to start. Once you clicked, your toma will go forward to across the road. If you click the left side of the screen, your toma will turn left and stop (as it is stupid, not able to walk and see in the same time), meanwhile you shall not see the right side. Vice versa. </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>『Job』クリーク・アンド・リバー社</title>
+    <url>/2022/01/01/creek-river/</url>
+    <content><![CDATA[<h1 id="CREEK-amp-RIVER-Co-Ltd"><a href="#CREEK-amp-RIVER-Co-Ltd" class="headerlink" title="CREEK &amp; RIVER Co., Ltd."></a>CREEK &amp; RIVER Co., Ltd.</h1><p>In 2022, I joined the Japanese entertainment company CREEK &amp; RIVER, where I developed a variety of <strong>hyper-casual games</strong>.   </p>
+<p>Each title was produced end-to-end by myself—from the initial planning stage, through development, to the final release. During the planning phase, I worked under the guidance of a planner, but the full production and publishing process was carried out independently by me.</p>
+<p><img src="/images/creek-river-hyper.png" alt="">    </p>
+<a id="more"></a>
+
+<h2 id="Merge-Spear"><a href="#Merge-Spear" class="headerlink" title="Merge Spear"></a>Merge Spear</h2><p>Among all these games, I like the “Merge Spear” the most so I am going to give you some details about the game here.   </p>
+<p>In this game, players choose a suitable spearhead, combine it into a weapon, and then face off against enemies—kind of like a fighting game.   </p>
+<p>I enjoyed working on this project because the gameplay felt fresh and engaging, and I had a lot of fun implementing the different attack effects.   </p>
+<p>For the camera system, I didn’t rely on any plugins but instead wrote my own scripts, and I’m very satisfied with the result.</p>
+<p><a href="https://youtube.com/shorts/5wnGHpuOGt0?feature=share" target="_blank" rel="noopener"><img src="/images/creek-river-hyper-spear.gif" alt="Watch the video"></a><br>(Click ↑ to watch a demo video)</p>
+<h2 id="Technologies-Used"><a href="#Technologies-Used" class="headerlink" title="Technologies Used:"></a>Technologies Used:</h2><ul>
+<li>Engine &amp; Language: Unity, C#</li>
+<li>Graphics: Shader Graph, Particle System</li>
+<li>3D &amp; Animation: Blender, Unity Animation </li>
+<li>Version Control: Git</li>
+</ul>
 ]]></content>
   </entry>
 </search>
