@@ -16,7 +16,7 @@
 
 <p style="display:flex; align-items: center; margin-right:10px; ">
   Or check the Github repo here &nbsp
-  <a style="display: flex; align-items: center;" href="MalteseDog"><img src="/images/github.ico"></img></a> 
+  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/ShoomShoom" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
 </p>
 
 <p>The game is about a small mouse named Shoom Shoom, who lives in the underground city in a steampunk world.<br>He uses his homemade steam machinery and weapons to smuggle goods for customers in order to survive.    </p>
@@ -40,6 +40,40 @@
 </li>
 </ul>
 <p>I also created the spine animations for shoom shoom and his enemies. (Will create more in the future…)  </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>『Job』クリーク・アンド・リバー社</title>
+    <url>/2022/01/01/creek-river/</url>
+    <content><![CDATA[<h1 id="CREEK-amp-RIVER-Co-Ltd"><a href="#CREEK-amp-RIVER-Co-Ltd" class="headerlink" title="CREEK &amp; RIVER Co., Ltd."></a>CREEK &amp; RIVER Co., Ltd.</h1><p>In 2022, I joined the Japanese entertainment company CREEK &amp; RIVER, where I developed a variety of <strong>hyper-casual games</strong>.   </p>
+<p>Each title was produced end-to-end by myself—from the initial planning stage, through development, to the final release. During the planning phase, I worked under the guidance of a planner, but the full production and publishing process was carried out independently by me.</p>
+<p><img src="/images/creek-river-hyper.png" alt="">    </p>
+<a id="more"></a>
+
+<h2 id="Merge-Spear"><a href="#Merge-Spear" class="headerlink" title="Merge Spear"></a>Merge Spear</h2><p>Among all these games, I like the “Merge Spear” the most so I am going to give you some details about the game here.   </p>
+<p>In this game, players choose a suitable spearhead, combine it into a weapon, and then face off against enemies—kind of like a fighting game.   </p>
+<p>I enjoyed working on this project because the gameplay felt fresh and engaging, and I had a lot of fun implementing the different attack effects.   </p>
+<p>For the camera system, I didn’t rely on any plugins but instead wrote my own scripts, and I’m very satisfied with the result.</p>
+<p><a href="https://youtube.com/shorts/5wnGHpuOGt0?feature=share" target="_blank" rel="noopener"><img src="/images/creek-river-hyper-spear.gif" alt="Watch the video"></a><br>(Click ↑ to watch a demo video)</p>
+<h2 id="Technologies-Used"><a href="#Technologies-Used" class="headerlink" title="Technologies Used:"></a>Technologies Used:</h2><ul>
+<li>Engine &amp; Language: Unity, C#</li>
+<li>Graphics: Shader Graph, Particle System</li>
+<li>3D &amp; Animation: Blender, Unity Animation </li>
+<li>Version Control: Git</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>『Indie』Stupitoma</title>
+    <url>/2020/04/03/Stupitoma/</url>
+    <content><![CDATA[<p>A stupid <span style="color: #960e02">tomato</span> is trying to across the road without dying.<br><img src="/images/toma-preview.png" alt="">  </p>
+<p>Click <a href="https://hangekinobaka.github.io/Stupitoma" target="_blank" rel="noopener">Here</a> to play!  </p>
+<p style="display:flex; align-items: center; margin-right:10px; ">
+  Or check the Github repo here &nbsp
+  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/Stupitoma" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
+</p>
+
+<p>This is a game demo using CocosCreator. I have draw the sprites and programmed the whole stuff. Click to start. Once you clicked, your toma will go forward to across the road. If you click the left side of the screen, your toma will turn left and stop (as it is stupid, not able to walk and see in the same time), meanwhile you shall not see the right side. Vice versa. </p>
 ]]></content>
   </entry>
   <entry>
@@ -78,6 +112,55 @@
 ]]></content>
   </entry>
   <entry>
+    <title>『Job』株式会社マンカインドゲームズ</title>
+    <url>/2022/11/01/mankind-games/</url>
+    <content><![CDATA[<h1 id="Mankind-Games-Inc"><a href="#Mankind-Games-Inc" class="headerlink" title="Mankind Games Inc."></a>Mankind Games Inc.</h1><p>I worked here for around three years, during which I contributed to a wide range of projects, including AR applications, social apps, and games. My responsibilities covered<br><strong>programming, technical art, and also serving as a project leader</strong>.</p>
+<p><img src="/images/mkg.png" alt="">    </p>
+<a id="more"></a>
+
+<h2 id="ぱちょふぁ-そまちょぱ-そまちょぱそ"><a href="#ぱちょふぁ-そまちょぱ-そまちょぱそ" class="headerlink" title="ぱちょふぁ そまちょぱ そまちょぱそ"></a>ぱちょふぁ そまちょぱ そまちょぱそ</h2><p><img src="/images/pachofa-logo.png" alt=""><br>This game is the very first mobile title based on the popular YouTube animation channel “Hajimemashite Matsuo desu”.</p>
+<p>The game’s title comes from a famous nonsensical phrase in “Hajimemashite Matsuo desu.” For convenience, we refer to it simply as <code>pachofa</code>.<br><img src="/images/pachofa.png" alt="">    </p>
+<p>It is designed as a casual idle game where players can collect mushrooms during short play sessions and gradually evolve stars and civilizations. Every day, a new chick can also be obtained.<br><img src="/images/pachofa-1.png" alt="">    </p>
+<p>I was involved from the very beginning—taking part in the planning phase, building the program architecture, implementing gameplay systems, and even contributing to animation production.</p>
+<p><a href="https://www.youtube.com/watch?v=CinSUpTJHtA" target="_blank" rel="noopener"><img src="https://img.youtube.com/vi/CinSUpTJHtA/maxresdefault.jpg" alt="Watch the video"></a><br>(Here ↑ is the official game trailer)   </p>
+<p>In this project, I applied an MVC architecture design and implemented several custom UI features that I developed myself. Some of these features have been made publicly available in   </p>
+<p style="display:flex; align-items: center; margin-right:10px; ">
+  this Git repository &nbsp
+  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/sleepy-uniframe-mono" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
+</p>
+
+<h3 id="Technologies-Used"><a href="#Technologies-Used" class="headerlink" title="Technologies Used:"></a>Technologies Used:</h3><ul>
+<li>Engine &amp; Language: Unity, C#</li>
+<li>3D &amp; Animation: Spine, Unity Animation </li>
+<li>Version Control: Git</li>
+</ul>
+<h2 id="結KYOTO"><a href="#結KYOTO" class="headerlink" title="結KYOTO"></a>結KYOTO</h2><p><img src="/images/yui-kyoto.png" alt=""><br>This app is a metaverse application that offers users the opportunity to virtually explore Kyoto together online.    </p>
+<p>For this project, I developed the avatar system (movement, customization, and animations), the online system (synchronization and communication), as well as the core project architecture.    </p>
+<h3 id="Technologies-Used-1"><a href="#Technologies-Used-1" class="headerlink" title="Technologies Used:"></a>Technologies Used:</h3><ul>
+<li>Engine &amp; Language: Unity, C#</li>
+<li>Graphics: Shader Graph, Particle System</li>
+<li>3D &amp; Animation: Unity Animation </li>
+<li>Online: Photon, Vivox  </li>
+<li>Version Control: Git</li>
+</ul>
+<h2 id="Mirror-Muse"><a href="#Mirror-Muse" class="headerlink" title="Mirror Muse"></a>Mirror Muse</h2><p><img src="/images/mirror-muse.png" alt=""><br>“Mirror Muse” is an app that lets users create a 3D avatar from a single photo and transform it into their ideal self. Avatars can be customized with different outfits, hairstyles, poses, and decorations, making it easy to share unique creations on social media.</p>
+<p>In this project, I was responsible for a wide range of features, including the outfit-changing system, tutorial flow, gacha mechanics, mini-games, and the communication lobby. Beyond feature development, I also took on project management and worked as the technical lead. Importantly, I contributed to both the client-side and server-side development, overseeing the full technical scope of the project.   </p>
+<h3 id="Technologies-Used-2"><a href="#Technologies-Used-2" class="headerlink" title="Technologies Used:"></a>Technologies Used:</h3><ul>
+<li>Engine &amp; Language: Unity, C#</li>
+<li>Graphics: Shader Graph</li>
+<li>3D &amp; Animation: Blender, Unity Animation </li>
+<li>Cloud: Firebase (Realtime DB, Functions…)</li>
+<li>Version Control: Git</li>
+</ul>
+<h2 id="Confidential-Project-With-GungHo"><a href="#Confidential-Project-With-GungHo" class="headerlink" title="Confidential Project With GungHo"></a>Confidential Project With GungHo</h2><p>The project is a collaboration with GungHo Online Entertainment, Inc. Since the title has not yet been released, details remain confidential.    </p>
+<p>It is a large-scale multiplayer online game developed with Unreal Engine. My responsibilities focused on the development of player actions and skill systems.  </p>
+<h3 id="Technologies-Used-3"><a href="#Technologies-Used-3" class="headerlink" title="Technologies Used:"></a>Technologies Used:</h3><ul>
+<li>Engine &amp; Language: UE, C++, BP</li>
+<li>Version Control: Perforce</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>『Indie』Sleepy Scene Tool (for Unity)</title>
     <url>/2024/09/12/sleepy-scene-tool/</url>
     <content><![CDATA[<h1 id="Sleepy-Scene-Tool-for-Unity"><a href="#Sleepy-Scene-Tool-for-Unity" class="headerlink" title="Sleepy Scene Tool (for Unity)"></a>Sleepy Scene Tool (for Unity)</h1><p>Don’t you feel that it is frustrating when you have an enter scene so that every time you need to start the game, you gonna have to go to that enter scene then hit the start button.   </p>
@@ -92,40 +175,6 @@
   Github repo here &nbsp
   <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/sleepy-scene-tool" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
 </h2>
-]]></content>
-  </entry>
-  <entry>
-    <title>『Indie』Stupitoma</title>
-    <url>/2020/04/03/Stupitoma/</url>
-    <content><![CDATA[<p>A stupid <span style="color: #960e02">tomato</span> is trying to across the road without dying.<br><img src="/images/toma-preview.png" alt="">  </p>
-<p>Click <a href="https://hangekinobaka.github.io/Stupitoma" target="_blank" rel="noopener">Here</a> to play!  </p>
-<p style="display:flex; align-items: center; margin-right:10px; ">
-  Or check the Github repo here &nbsp
-  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/Stupitoma" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
-</p>
-
-<p>This is a game demo using CocosCreator. I have draw the sprites and programmed the whole stuff. Click to start. Once you clicked, your toma will go forward to across the road. If you click the left side of the screen, your toma will turn left and stop (as it is stupid, not able to walk and see in the same time), meanwhile you shall not see the right side. Vice versa. </p>
-]]></content>
-  </entry>
-  <entry>
-    <title>『Job』クリーク・アンド・リバー社</title>
-    <url>/2022/01/01/creek-river/</url>
-    <content><![CDATA[<h1 id="CREEK-amp-RIVER-Co-Ltd"><a href="#CREEK-amp-RIVER-Co-Ltd" class="headerlink" title="CREEK &amp; RIVER Co., Ltd."></a>CREEK &amp; RIVER Co., Ltd.</h1><p>In 2022, I joined the Japanese entertainment company CREEK &amp; RIVER, where I developed a variety of <strong>hyper-casual games</strong>.   </p>
-<p>Each title was produced end-to-end by myself—from the initial planning stage, through development, to the final release. During the planning phase, I worked under the guidance of a planner, but the full production and publishing process was carried out independently by me.</p>
-<p><img src="/images/creek-river-hyper.png" alt="">    </p>
-<a id="more"></a>
-
-<h2 id="Merge-Spear"><a href="#Merge-Spear" class="headerlink" title="Merge Spear"></a>Merge Spear</h2><p>Among all these games, I like the “Merge Spear” the most so I am going to give you some details about the game here.   </p>
-<p>In this game, players choose a suitable spearhead, combine it into a weapon, and then face off against enemies—kind of like a fighting game.   </p>
-<p>I enjoyed working on this project because the gameplay felt fresh and engaging, and I had a lot of fun implementing the different attack effects.   </p>
-<p>For the camera system, I didn’t rely on any plugins but instead wrote my own scripts, and I’m very satisfied with the result.</p>
-<p><a href="https://youtube.com/shorts/5wnGHpuOGt0?feature=share" target="_blank" rel="noopener"><img src="/images/creek-river-hyper-spear.gif" alt="Watch the video"></a><br>(Click ↑ to watch a demo video)</p>
-<h2 id="Technologies-Used"><a href="#Technologies-Used" class="headerlink" title="Technologies Used:"></a>Technologies Used:</h2><ul>
-<li>Engine &amp; Language: Unity, C#</li>
-<li>Graphics: Shader Graph, Particle System</li>
-<li>3D &amp; Animation: Blender, Unity Animation </li>
-<li>Version Control: Git</li>
-</ul>
 ]]></content>
   </entry>
 </search>
