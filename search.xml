@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>『Indie』ShoomShoom</title>
-    <url>/2023/02/04/ShoomShoom/</url>
+    <url>/2022/02/04/ShoomShoom/</url>
     <content><![CDATA[<p><img src="/images/shoom-logo-s.png" alt="">     </p>
 <h1 id="Shoom-Shoom"><a href="#Shoom-Shoom" class="headerlink" title="Shoom Shoom"></a>Shoom Shoom</h1><p>An independent game demo created by me and my friend <a href="https://www.linkedin.com/in/%E3%82%B7%E3%83%B3-%E3%82%AA%E3%82%A6-9b0103252/" target="_blank" rel="noopener">オウシン(Chen Wang)</a>     </p>
 <p>The game itself is still under development, we will strive to make a complete gaming experience.     </p>
@@ -50,11 +50,13 @@
 <p><img src="/images/creek-river-hyper.png" alt="">    </p>
 <a id="more"></a>
 
-<h2 id="Merge-Spear"><a href="#Merge-Spear" class="headerlink" title="Merge Spear"></a>Merge Spear</h2><p>Among all these games, I like the “Merge Spear” the most so I am going to give you some details about the game here.   </p>
+<h2 id="Merge-Spear"><a href="#Merge-Spear" class="headerlink" title="Merge Spear"></a>Merge Spear</h2><p>Among all these games, I like the “Merge Spear” the most so I am going to give you some details about the game here.<br><img src="/images/creek-river-hyper-spear.gif" alt="">   </p>
 <p>In this game, players choose a suitable spearhead, combine it into a weapon, and then face off against enemies—kind of like a fighting game.   </p>
 <p>I enjoyed working on this project because the gameplay felt fresh and engaging, and I had a lot of fun implementing the different attack effects.   </p>
 <p>For the camera system, I didn’t rely on any plugins but instead wrote my own scripts, and I’m very satisfied with the result.</p>
-<p><a href="https://youtube.com/shorts/5wnGHpuOGt0?feature=share" target="_blank" rel="noopener"><img src="/images/creek-river-hyper-spear.gif" alt="Watch the video"></a><br>(Click ↑ to watch a demo video)</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5wnGHpuOGt0" frameborder="0" allowfullscreen></iframe>
+
+<p>(Click ↑ to watch a demo video)</p>
 <h2 id="Technologies-Used"><a href="#Technologies-Used" class="headerlink" title="Technologies Used:"></a>Technologies Used:</h2><ul>
 <li>Engine &amp; Language: Unity, C#</li>
 <li>Graphics: Shader Graph, Particle System</li>
@@ -64,27 +66,18 @@
 ]]></content>
   </entry>
   <entry>
-    <title>『Indie』Stupitoma</title>
-    <url>/2020/04/03/Stupitoma/</url>
-    <content><![CDATA[<p>A stupid <span style="color: #960e02">tomato</span> is trying to across the road without dying.<br><img src="/images/toma-preview.png" alt="">  </p>
-<p>Click <a href="https://hangekinobaka.github.io/Stupitoma" target="_blank" rel="noopener">Here</a> to play!  </p>
-<p style="display:flex; align-items: center; margin-right:10px; ">
-  Or check the Github repo here &nbsp
-  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/Stupitoma" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
-</p>
-
-<p>This is a game demo using CocosCreator. I have draw the sprites and programmed the whole stuff. Click to start. Once you clicked, your toma will go forward to across the road. If you click the left side of the screen, your toma will turn left and stop (as it is stupid, not able to walk and see in the same time), meanwhile you shall not see the right side. Vice versa. </p>
-]]></content>
-  </entry>
-  <entry>
     <title>『Indie』Sleepy DaVinci Code</title>
     <url>/2021/05/10/sleepy-davinci-code/</url>
     <content><![CDATA[<p>A <span style="background: #555; font-weight: 700" ><span style="color: #fff">Da</span><span style="color: #000">Vinci</span></span> code board game.       </p>
 <p>Rule:<br>Reveal all of your opponent’s secret code before they crack yours!</p>
 <p><img src="/images/dvc-preview.png" alt="">    </p>
-<p><a href="https://youtu.be/EGcA6uzIboI" target="_blank" rel="noopener"><img src="https://img.youtube.com/vi/EGcA6uzIboI/maxresdefault.jpg" alt="Watch the video"></a><br>(Click ↑ to watch a demo video)</p>
 <a id="more"></a>
 
+<!-- [![Watch the video](https://img.youtube.com/vi/EGcA6uzIboI/maxresdefault.jpg)](https://youtu.be/EGcA6uzIboI)     -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EGcA6uzIboI" frameborder="0" allowfullscreen></iframe>
+
+<p>(Click ↑ to watch a demo video)</p>
 <p style="display:flex; align-items: center; margin-right:10px;">
   Click &nbsp
   <a href="https://dvc.sleepystudio.ga/" target="_blank" rel="noopener" style="display: flex; align-items: center;"> Here <img src="/images/dvc.ico"></img> </a> 
@@ -112,6 +105,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>『Indie』Stupitoma</title>
+    <url>/2020/04/03/Stupitoma/</url>
+    <content><![CDATA[<p>A stupid <span style="color: #960e02">tomato</span> is trying to across the road without dying.<br><img src="/images/toma-preview.png" alt="">  </p>
+<p>Click <a href="https://hangekinobaka.github.io/Stupitoma" target="_blank" rel="noopener">Here</a> to play!  </p>
+<p style="display:flex; align-items: center; margin-right:10px; ">
+  Or check the Github repo here &nbsp
+  <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/Stupitoma" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
+</p>
+
+<p>This is a game demo using CocosCreator. I have draw the sprites and programmed the whole stuff. Click to start. Once you clicked, your toma will go forward to across the road. If you click the left side of the screen, your toma will turn left and stop (as it is stupid, not able to walk and see in the same time), meanwhile you shall not see the right side. Vice versa. </p>
+]]></content>
+  </entry>
+  <entry>
     <title>『Job』株式会社マンカインドゲームズ</title>
     <url>/2022/11/01/mankind-games/</url>
     <content><![CDATA[<h1 id="Mankind-Games-Inc"><a href="#Mankind-Games-Inc" class="headerlink" title="Mankind Games Inc."></a>Mankind Games Inc.</h1><p>I worked here for around three years, during which I contributed to a wide range of projects, including AR applications, social apps, and games. My responsibilities covered<br><strong>programming, technical art, and also serving as a project leader</strong>.</p>
@@ -122,7 +128,9 @@
 <p>The game’s title comes from a famous nonsensical phrase in “Hajimemashite Matsuo desu.” For convenience, we refer to it simply as <code>pachofa</code>.<br><img src="/images/pachofa.png" alt="">    </p>
 <p>It is designed as a casual idle game where players can collect mushrooms during short play sessions and gradually evolve stars and civilizations. Every day, a new chick can also be obtained.<br><img src="/images/pachofa-1.png" alt="">    </p>
 <p>I was involved from the very beginning—taking part in the planning phase, building the program architecture, implementing gameplay systems, and even contributing to animation production.</p>
-<p><a href="https://www.youtube.com/watch?v=CinSUpTJHtA" target="_blank" rel="noopener"><img src="https://img.youtube.com/vi/CinSUpTJHtA/maxresdefault.jpg" alt="Watch the video"></a><br>(Here ↑ is the official game trailer)   </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CinSUpTJHtA" frameborder="0" allowfullscreen></iframe>
+
+<p>(Here ↑ is the official game trailer)   </p>
 <p>In this project, I applied an MVC architecture design and implemented several custom UI features that I developed myself. Some of these features have been made publicly available in   </p>
 <p style="display:flex; align-items: center; margin-right:10px; ">
   this Git repository &nbsp
@@ -161,16 +169,65 @@
 ]]></content>
   </entry>
   <entry>
+    <title>『Job』株式会社G-Blossom</title>
+    <url>/2025/07/07/g-blossom/</url>
+    <content><![CDATA[<h1 id="G-Blossom-Co-Ltd"><a href="#G-Blossom-Co-Ltd" class="headerlink" title="G-Blossom Co., Ltd."></a>G-Blossom Co., Ltd.</h1><p>I joined G-Blossom Co., Ltd. because I wanted to work on developing more indie-style games.<br>However, after joining, my main responsibility was the development of a social game. Although this was different from what I originally expected, I gained valuable experience in online game development, as I was responsible for the entire process from front-end to back-end on my own.</p>
+<p><img src="/images/g-blossom-logo.svg" alt="">    </p>
+<a id="more"></a>
+
+<h2 id="拳極"><a href="#拳極" class="headerlink" title="拳極"></a>拳極</h2><p><img src="/images/kengoku-1.png" alt=""><br>The project I worked on was a game called Ken Goku (拳極). By the time I joined, the game had already been released and had been in live operation for quite some time. It is a combat-focused social game themed around Japanese yakuza culture. Players can progress through main story missions, recruit underlings, form alliances, engage in PvP, and purchase or upgrade equipment.  </p>
+<p>Here is the official site of the game: <a href="https://kengoku.com/" target="_blank" rel="noopener">https://kengoku.com/</a></p>
+<p>The game is heavily social, offering features such as chat, greetings, friend-making, sparring, gift-giving, and cooperative battles. In addition, it includes extensive in-app purchases and gacha systems, which made the backend implementation particularly complex.   </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UB5HQs8R_DE" frameborder="0" allowfullscreen></iframe>   
+
+<p>(Here ↑ is the official game trailer) </p>
+<p>I was responsible for full-stack development, covering both frontend and backend. My main tasks included bug fixing, feature updates, and maintaining seasonal operations.  </p>
+<h3 id="Technical-Details"><a href="#Technical-Details" class="headerlink" title="Technical Details"></a>Technical Details</h3><p>In this project, we have used these tools for the development:  </p>
+<ul>
+<li>Communication<ul>
+<li>Slack</li>
+</ul>
+</li>
+<li>Task Management<ul>
+<li>Backlog</li>
+</ul>
+</li>
+<li>Client<ul>
+<li>Unity</li>
+</ul>
+</li>
+<li>Backend<ul>
+<li>AWS<ul>
+<li>Lambda （nodejs）</li>
+<li>MySQL</li>
+<li>DynamoDB</li>
+</ul>
+</li>
+<li>Firebase</li>
+</ul>
+</li>
+<li>CI/CD<ul>
+<li>UnityCloudBuild</li>
+</ul>
+</li>
+</ul>
+<p>Because the game’s architecture was also quite complex, I created a simple diagram to illustrate its structure.<br><img src="/images/kengoku-diagram.svg" width="400" />   </p>
+<p>The architecture connects a Unity client to <code>AWS Lambda</code> APIs, which interact with both <code>RDS</code> (MySQL) and <code>DynamoDB</code>.<br>The client can access <code>DynamoDB</code> in a one-way direction but cannot modify it.<br><code>Firebase</code> is used to push notification to the client.<br>The client gets the <code>Asset Bundle</code> from <code>S3</code>.   </p>
+<p>There is also a <code>CMS</code>, where the management team can modify DB and S3 directly.  </p>
+<p>The system supports multiple environments (DEV/TEST/STG/PROD) for smooth development and live operations.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>『Indie』Sleepy Scene Tool (for Unity)</title>
     <url>/2024/09/12/sleepy-scene-tool/</url>
     <content><![CDATA[<h1 id="Sleepy-Scene-Tool-for-Unity"><a href="#Sleepy-Scene-Tool-for-Unity" class="headerlink" title="Sleepy Scene Tool (for Unity)"></a>Sleepy Scene Tool (for Unity)</h1><p>Don’t you feel that it is frustrating when you have an enter scene so that every time you need to start the game, you gonna have to go to that enter scene then hit the start button.   </p>
 <p>Isn’t it annoying that your scene file hidden in the project hierarchy and you have to use the search bar to find the scene you wanna use.   </p>
 <p>In the begining I thought that I can find a good plugin for this, but no, either are they too hard to use or they are expensive.   </p>
 <p>So I thought, why not create my own one. So, boom, voila, the <code>Sleepy Scene Tool</code> is here:  </p>
-<p><img src="../images/sleepy-scene-tool-intro.png" alt="">   </p>
+<p><img src="/images/sleepy-scene-tool-intro.png" alt="">   </p>
 <a id="more"></a>    
 
-<p><img src="../images/sleepy-scene-tool-menu.jpg" alt="">    </p>
+<p><img src="/images/sleepy-scene-tool-menu.jpg" alt="">    </p>
 <h2 style="display:flex; align-items: center; margin-right:10px; ">
   Github repo here &nbsp
   <a style="display: flex; align-items: center;" href="https://github.com/hangekinobaka/sleepy-scene-tool" target="_blank" rel="noopener"><img src="/images/github.ico"></img></a> 
